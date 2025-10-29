@@ -22,7 +22,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white p-8">
+    <div className="min-h-screen bg-linear-to-br from-gray-900 via-gray-800 to-black text-white p-8">
       <h1 className="text-4xl font-bold text-center mb-6 text-green-400">
         🎵 MusicLovers
       </h1>
